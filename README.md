@@ -12,38 +12,26 @@
 ## install
 npm install qiao.util.all
 
-# api
-## aes
-```javascript
-'use strict';
+## dependencies
+1. moment
+2. qiao.util.encode
+3. qiao.util.file
+4. qiao.util.json
+5. qiao.util.string
+6. qiao.plugin.mysql
+7. qiao.plugin.request
+8. qiao.plugin.zip
 
-var qiaoUtilEncode = require('qiao.util.all');
-
-var data 	= '{"nihao":"name"}';
-var key		= '12345612345612345612345612345611';
-var s		= qiaoUtilEncode.AESEncrypt(data, key);
-console.log(s);
-
-var ss		= qiaoUtilEncode.AESDecrypt(s, key);
-console.log(ss);
-```
-
-## 3des
-```javascript
-'use strict';
-
-var qiaoUtilEncode = require('qiao.util.all');
-
-var data 	= '{"nihao":"name"}';
-var key		= '123456123456123456112233';
-var s		= qiaoUtilEncode.TDESEncrypt(data, key);
-console.log(s);
-
-var ss		= qiaoUtilEncode.TDESDecrypt(s, key);
-console.log(ss);
-```
+## documentation
+1. moment, http://momentjs.com/
+2. qiao.util.encode, https://code.insistime.com/qiao.util.encode
+3. qiao.util.file, https://code.insistime.com/qiao.util.file
+4. qiao.util.json, https://code.insistime.com/qiao.util.json
+5. qiao.util.string, https://code.insistime.com/qiao.util.string
+6. qiao.plugin.mysql, https://code.insistime.com/qiao.plugin.mysql
+7. qiao.plugin.request, https://code.insistime.com/qiao.plugin.request
+8. qiao.plugin.zip, https://code.insistime.com/qiao.plugin.zip
 
 # version
-## 0.0.1.20181112
+## 0.0.1.20181113
 1. init project
-2. modify md
