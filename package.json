@@ -1,0 +1,32 @@
+{
+  "name": "qiao.util.all",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "nodejs tools",
+  "keywords": [
+    "nodejs",
+    "tools"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "moment": "^2.22.2",
+    "qiao.plugin.mysql": "0.0.4",
+    "qiao.plugin.request": "0.0.9",
+    "qiao.plugin.zip": "^0.2.5",
+    "qiao.util.encode": "0.0.1",
+    "qiao.util.file": "0.0.3",
+    "qiao.util.json": "0.0.1",
+    "qiao.util.string": "0.0.1"
+  },
+  "author": {
+    "name": "qiaowenbin",
+    "email": "npm@insistime.com",
+    "url": "https://insistime.com"
+  },
+  "homepage": "https://code.insistime.com/qiao.util.all",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insistime/qiao.util.all.git"
+  }
+}
