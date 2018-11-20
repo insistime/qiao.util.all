@@ -11,7 +11,7 @@
   "scripts": {},
   "dependencies": {
     "moment": "^2.22.2",
-    "qiao.plugin.cli": "0.0.2",
+    "qiao.plugin.cli": "0.0.3",
     "qiao.plugin.mysql": "0.0.4",
     "qiao.plugin.request": "0.0.9",
     "qiao.plugin.zip": "^0.2.5",
