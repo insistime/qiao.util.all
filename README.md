@@ -35,6 +35,9 @@ npm install qiao.util.all
 9. qiao.plugin.zip, https://code.insistime.com/qiao.plugin.zip
 
 # version
+## 0.0.6.20181127
+1. update npm packages
+
 ## 0.0.5.20181122
 1. update qiao.util.all
 
