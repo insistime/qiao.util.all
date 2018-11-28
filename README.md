@@ -39,6 +39,9 @@ npm install qiao.util.all
 11. qiao.ext.txsms, https://code.insistime.com/qiao.ext.txsms
 
 # version
+## 0.0.7.20181128
+1. update qiao.util.encode@0.0.5
+
 ## 0.0.6.20181127
 1. update npm packages
 2. add qiao.ext.oss
