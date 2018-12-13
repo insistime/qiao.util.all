@@ -39,6 +39,9 @@ npm install qiao.util.all
 11. qiao.ext.txsms, https://code.insistime.com/qiao.ext.txsms
 
 # version
+## 0.0.9.20181213
+1. update qiao.plugin.mysql@0.0.6
+
 ## 0.0.8.20181205
 1. update qiao.ext.oss@0.3.8
 
