@@ -24,6 +24,7 @@ npm install qiao.util.all
 9. qiao.plugin.zip
 10. qiao.ext.oss
 11. qiao.ext.txsms
+12. qiao.ext.weixin
 
 ## documentation
 1. qiao.util.encode, https://code.insistime.com/qiao.util.encode
@@ -37,8 +38,12 @@ npm install qiao.util.all
 9. qiao.plugin.zip, https://code.insistime.com/qiao.plugin.zip
 10. qiao.ext.oss, https://code.insistime.com/qiao.ext.oss
 11. qiao.ext.txsms, https://code.insistime.com/qiao.ext.txsms
+12. qiao.ext.weixin, https://code.insistime.com/qiao.ext.weixin
 
 # version
+## 0.1.0.20190104
+1. add qiao.ext.weixin
+
 ## 0.0.9.20181213
 1. update qiao.plugin.mysql@0.0.6
 
