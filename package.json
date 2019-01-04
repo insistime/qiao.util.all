@@ -13,6 +13,7 @@
     "moment": "^2.22.2",
     "qiao.ext.oss": "^0.3.8",
     "qiao.ext.txsms": "0.0.1",
+    "qiao.ext.weixin": "0.0.1",
     "qiao.plugin.cli": "0.0.5",
     "qiao.plugin.mysql": "0.0.6",
     "qiao.plugin.request": "^0.1.2",
