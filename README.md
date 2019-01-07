@@ -43,6 +43,10 @@ npm install qiao.util.all
 13. qiao.ext.weixin, https://code.insistime.com/qiao.ext.weixin
 
 # version
+## 0.1.1.20190107
+1. add qiao.util.timer
+2. update all packages
+
 ## 0.1.0.20190104
 1. add qiao.ext.weixin
 
