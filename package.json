@@ -21,7 +21,8 @@
     "qiao.util.encode": "0.0.5",
     "qiao.util.file": "0.0.6",
     "qiao.util.json": "0.0.3",
-    "qiao.util.string": "0.0.2"
+    "qiao.util.string": "0.0.2",
+    "qiao.util.timer": "0.0.1"
   },
   "author": {
     "name": "qiaowenbin",
