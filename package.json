@@ -17,12 +17,12 @@
     "qiao.plugin.cli": "0.0.5",
     "qiao.plugin.mysql": "0.0.7",
     "qiao.plugin.request": "^0.1.3",
-    "qiao.plugin.zip": "^0.2.7",
+    "qiao.plugin.zip": "^0.2.8",
     "qiao.util.encode": "0.0.5",
-    "qiao.util.file": "0.0.6",
+    "qiao.util.file": "0.0.7",
     "qiao.util.json": "0.0.3",
-    "qiao.util.string": "0.0.2",
-    "qiao.util.timer": "0.0.1"
+    "qiao.util.string": "0.0.3",
+    "qiao.util.timer": "0.0.2"
   },
   "author": {
     "name": "qiaowenbin",
