@@ -43,6 +43,9 @@ npm install qiao.util.all
 13. qiao.ext.weixin, https://code.insistime.com/qiao.ext.weixin
 
 # version
+## 0.1.4.20190116
+1. update qiao.util.encode@0.0.6
+
 ## 0.1.3.20190109
 1. update packages
 
