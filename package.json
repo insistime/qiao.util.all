@@ -10,7 +10,7 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "moment": "^2.23.0",
+    "moment": "^2.24.0",
     "qiao.ext.oss": "^0.4.0",
     "qiao.ext.txsms": "0.0.2",
     "qiao.ext.weixin": "0.0.4",
@@ -19,7 +19,7 @@
     "qiao.plugin.request": "^0.1.5",
     "qiao.plugin.zip": "^0.3.0",
     "qiao.util.encode": "0.0.6",
-    "qiao.util.file": "0.0.9",
+    "qiao.util.file": "^0.1.0",
     "qiao.util.json": "0.0.3",
     "qiao.util.string": "0.0.3",
     "qiao.util.timer": "0.0.2"
