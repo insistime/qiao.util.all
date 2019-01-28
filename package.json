@@ -15,7 +15,7 @@
     "qiao.ext.oss": "^0.4.2",
     "qiao.ext.txsms": "0.0.2",
     "qiao.ext.weixin": "0.0.4",
-    "qiao.plugin.cli": "0.0.6",
+    "qiao.plugin.cli": "0.0.7",
     "qiao.plugin.mysql": "0.0.7",
     "qiao.plugin.request": "^0.1.5",
     "qiao.plugin.zip": "^0.3.0",
