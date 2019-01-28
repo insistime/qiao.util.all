@@ -23,9 +23,10 @@ npm install qiao.util.all
 8. qiao.plugin.mysql
 9. qiao.plugin.request
 10. qiao.plugin.zip
-11. qiao.ext.oss
-12. qiao.ext.txsms
-13. qiao.ext.weixin
+11. qiao.ext.cos
+12. qiao.ext.oss
+13. qiao.ext.txsms
+14. qiao.ext.weixin
 
 ## documentation
 1. qiao.util.encode, https://code.insistime.com/qiao.util.encode
@@ -33,16 +34,22 @@ npm install qiao.util.all
 3. qiao.util.json, https://code.insistime.com/qiao.util.json
 4. moment, http://momentjs.com/
 5. qiao.util.string, https://code.insistime.com/qiao.util.string
-6. qiao.util.timer,
+6. qiao.util.timer, https://www.npmjs.com/package/qiao.util.timer
 7. qiao.plugin.cli, https://code.insistime.com/qiao.plugin.cli
 8. qiao.plugin.mysql, https://code.insistime.com/qiao.plugin.mysql
 9. qiao.plugin.request, https://code.insistime.com/qiao.plugin.request
 10. qiao.plugin.zip, https://code.insistime.com/qiao.plugin.zip
-11. qiao.ext.oss, https://code.insistime.com/qiao.ext.oss
-12. qiao.ext.txsms, https://code.insistime.com/qiao.ext.txsms
-13. qiao.ext.weixin, https://code.insistime.com/qiao.ext.weixin
+11. qiao.ext.cos, https://code.insistime.com/qiao.ext.cos
+12. qiao.ext.oss, https://code.insistime.com/qiao.ext.oss
+13. qiao.ext.txsms, https://code.insistime.com/qiao.ext.txsms
+14. qiao.ext.weixin, https://code.insistime.com/qiao.ext.weixin
 
 # version
+## 0.1.7.20190128
+1. update qiao.ext.oss@0.4.2
+2. update qiao.plugin.cli@0.0.7
+3. add qiao.ext.cos
+
 ## 0.1.6.20190122
 1. update qiao.util.file@0.1.0
 2. update moment@2.24.0
