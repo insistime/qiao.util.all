@@ -12,7 +12,7 @@
   "dependencies": {
     "moment": "^2.24.0",
     "qiao.ext.cos": "0.0.6",
-    "qiao.ext.oss": "^0.4.2",
+    "qiao.ext.oss": "^0.4.3",
     "qiao.ext.txsms": "0.0.2",
     "qiao.ext.weixin": "0.0.4",
     "qiao.plugin.cli": "0.0.7",
