@@ -19,7 +19,7 @@
     "qiao.plugin.mysql": "0.0.7",
     "qiao.plugin.request": "^0.1.6",
     "qiao.plugin.upload": "0.0.1",
-    "qiao.plugin.zip": "^0.3.0",
+    "qiao.plugin.zip": "^0.3.7",
     "qiao.util.encode": "0.0.6",
     "qiao.util.file": "^0.1.0",
     "qiao.util.json": "0.0.3",
