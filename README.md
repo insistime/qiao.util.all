@@ -8,6 +8,9 @@
 ## npm
 [https://www.npmjs.com/package/qiao.util.all](https://www.npmjs.com/package/qiao.util.all)
 
+## donate
+[http://uikoo9.com/donate](http://uikoo9.com/donate)
+
 # started
 ## install
 npm install qiao.util.all
