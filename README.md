@@ -50,6 +50,9 @@ npm install qiao.util.all
 15. qiao.ext.weixin, https://code.insistime.com/qiao.ext.weixin
 
 # version
+## 0.2.4.20191219
+1. qiao.ext.cos@0.1.1
+
 ## 0.2.3.20191206
 1. update packages
 2. add funding
